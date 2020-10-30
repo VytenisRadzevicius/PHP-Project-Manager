@@ -14,6 +14,6 @@
 - Quick search.
 
 ## Usage
-- 1. Edit config.php file with your SQL credentials.
-- 2. Add database structure to your server from phppm.sql file.
-- 3. Run index.php on your apache server.
+1. Edit config.php file with your SQL credentials.
+2. Add database structure to your server from phppm.sql file.
+3. Run index.php on your apache server.
